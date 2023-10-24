@@ -1,0 +1,9 @@
+document.body.style.backgroundColor="lightyellow";
+document.getElementById("heading").innerHTML="Javascript";
+document.getElementById('heading').style.fontsize="35px";
+document.getElementById("p1").innerHTML="Javascript is a powerful,flexible and fast programming language.";
+document.getElementById("p2").innerHTML="Javascript powers the dynamic behaviour on websites.";
+document.getElementById("p3").innerHTML="Javascript remains at the core of web development.";
+document.getElementById('p1').style.color="red";
+document.getElementById('p2').style.color="blue";
+document.getElementById('p3').style.color="green";
